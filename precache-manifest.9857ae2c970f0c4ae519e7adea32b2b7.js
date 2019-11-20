@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a31103dab8ca34c11212cbbb60d31dec",
+    "revision": "7c8f9b39040bde7417afe772a9c455f9",
     "url": "/monters-and-stuff/index.html"
   },
   {
-    "revision": "614dcbf33bf1698eddb3",
+    "revision": "1460e865513d68c543b7",
     "url": "/monters-and-stuff/static/css/main.c473b1f7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monters-and-stuff/static/js/2.2bc65652.chunk.js"
   },
   {
-    "revision": "614dcbf33bf1698eddb3",
-    "url": "/monters-and-stuff/static/js/main.72d4cc5d.chunk.js"
+    "revision": "1460e865513d68c543b7",
+    "url": "/monters-and-stuff/static/js/main.c60f1123.chunk.js"
   },
   {
     "revision": "1ff1ec1ac9339dcf56c6",
